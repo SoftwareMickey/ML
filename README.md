@@ -1,4 +1,4 @@
-This repository contains Machine Learning Models Trained and Ready To be Used. The models used specific technologies.
+This repository contains Machine Learning House Prediction Model Trained and Ready To be Used. The models used specific technologies.
 
 🚀 Features
 - Data Processing: Efficient data cleaning, normalization, and augmentation techniques.
