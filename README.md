@@ -6,3 +6,9 @@ This repository contains Machine Learning Models Trained and Ready To be Used. T
 - Training: Fine-tuned training strategies, including [e.g., learning rate schedules, early stopping].
 - Evaluation: Robust model evaluation using metrics like [specific metrics, e.g., accuracy, F1-score].
 - Deployment: Scripts for deploying the model on [e.g., cloud platforms, edge devices] for real-time predictions.
+
+
+🧠 Models and Techniques
+Algorithms: [e.g., Convolutional Neural Networks, Transformers, Random Forests]
+Frameworks: TensorFlow, Scikit-Learn
+Libraries: NumPy, Pandas, Matplotlib, Seaborn
