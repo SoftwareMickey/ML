@@ -9,6 +9,6 @@ This repository contains Machine Learning Models Trained and Ready To be Used. T
 
 
 🧠 Models and Techniques
-Algorithms: [e.g., Convolutional Neural Networks, Transformers, Random Forests]
-Frameworks: TensorFlow, Scikit-Learn
-Libraries: NumPy, Pandas, Matplotlib, Seaborn
+- Algorithms: [e.g., Convolutional Neural Networks, Transformers, Random Forests]
+- Frameworks: TensorFlow, Scikit-Learn
+- Libraries: NumPy, Pandas, Matplotlib, Seaborn
