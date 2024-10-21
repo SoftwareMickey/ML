@@ -37,7 +37,7 @@ def convert_to_numbers(data):
     return converted
 
 # Todo: Create a function that will be used to convert data to be predicted from objects to numbers
-def accept_and_convert_data(input_data):
+def accept_and_convert_data(input_data, np):
   prediction_data = list(input_data.values());
 
   # print the prediction data
